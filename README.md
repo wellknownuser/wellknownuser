@@ -3,7 +3,7 @@
 #### 💻 I’m a software developer.
 #### 🔎 I'm always learning and exploring new technologies.
 #### 🗂️ I'm looking to collaborate on some interesting projects.
-#### ⚙️ My stack of technologies::
+#### ⚙️ My stack of technologies:
 <div align="center" style="padding: 3px;">
   <a href="#"><img src="https://github.com/wellknownuser/icons/blob/main/github-dark.svg" width=50></a>
   <a href="#"><img src="https://github.com/wellknownuser/icons/blob/main/githubactions-dark.svg" width=50></a>
